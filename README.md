@@ -464,7 +464,7 @@ TOTAL:              1,240+ records across all formats
 
 ### Complete Documentation
 
-**[View Full Documentation (PDF)](PartE_Documentation/PartE_Documentation.pdf)** - 35 pages covering:
+**[View Full Documentation (PDF)](PartE- Best Practices & Documentation/Documentation.pdf)** - 35 pages covering:
 
 1. **Data Architecture** (Pages 5-7)
    - Complete pipeline visualization
@@ -530,7 +530,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Hemant Borana**
 
 - 📧 Email: hemantpb123@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/hemantborana](https://linkedin.com/in/hemantborana)
+- 🔗 LinkedIn: [linkedin.com/in/hemantborana](https://www.linkedin.com/in/hemant-parasmal-borana-17a742289)
 - 🐙 GitHub: [@hemantborana](https://github.com/hemantborana)
 
 ### Academic Information
