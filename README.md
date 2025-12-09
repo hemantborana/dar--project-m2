@@ -544,7 +544,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🙏 Acknowledgments
 
-- **Course Instructor**: [Instructor Name]
 - **Data Sources**: 
   - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
   - [REST Countries API](https://restcountries.com/)
