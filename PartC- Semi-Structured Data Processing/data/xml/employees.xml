@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <department name="Engineering">
+        <employee id="E001">
+            <name>John Doe</name>
+            <position>Senior Engineer</position>
+            <salary>95000</salary>
+            <contact>
+                <email>john.doe@company.com</email>
+                <phone>555-0101</phone>
+            </contact>
+            <skills>
+                <skill>Python</skill>
+                <skill>Java</skill>
+                <skill>SQL</skill>
+            </skills>
+        </employee>
+        <employee id="E002">
+            <name>Jane Smith</name>
+            <position>Tech Lead</position>
+            <salary>110000</salary>
+            <contact>
+                <email>jane.smith@company.com</email>
+                <phone>555-0102</phone>
+            </contact>
+            <skills>
+                <skill>JavaScript</skill>
+                <skill>React</skill>
+                <skill>Node.js</skill>
+            </skills>
+        </employee>
+    </department>
+    <department name="Sales">
+        <employee id="E003">
+            <name>Bob Johnson</name>
+            <position>Sales Manager</position>
+            <salary>85000</salary>
+            <contact>
+                <email>bob.j@company.com</email>
+                <phone>555-0103</phone>
+            </contact>
+            <skills>
+                <skill>Negotiation</skill>
+                <skill>CRM</skill>
+            </skills>
+        </employee>
+    </department>
+</company>

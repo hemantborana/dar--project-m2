@@ -1,0 +1,51 @@
+name,official,capital,region,subregion,population,area,languages,currencies,independent
+Antigua and Barbuda,Antigua and Barbuda,Saint John's,Americas,Caribbean,103603,442.0,English,XCD,True
+Bhutan,Kingdom of Bhutan,Thimphu,Asia,Southern Asia,784043,38394.0,Dzongkha,"BTN, INR",True
+Italy,Italian Republic,Rome,Europe,Southern Europe,58927633,301336.0,"Italian, Catalan",EUR,True
+Tuvalu,Tuvalu,Funafuti,Oceania,Polynesia,10643,26.0,"English, Tuvaluan","AUD, TVD",True
+Anguilla,Anguilla,The Valley,Americas,Caribbean,16010,91.0,English,XCD,False
+Australia,Commonwealth of Australia,Canberra,Oceania,Australia and New Zealand,27536874,7692024.0,English,AUD,True
+Belize,Belize,Belmopan,Americas,Central America,417634,22966.0,"Belizean Creole, English, Spanish",BZD,True
+Vanuatu,Republic of Vanuatu,Port Vila,Oceania,Melanesia,321409,12189.0,"Bislama, English, French",VUV,True
+Belarus,Republic of Belarus,Minsk,Europe,Eastern Europe,9109280,207600.0,"Belarusian, Russian",BYN,True
+Mauritius,Republic of Mauritius,Port Louis,Africa,Eastern Africa,1243741,2040.0,"English, French, Mauritian Creole",MUR,True
+Laos,Lao People's Democratic Republic,Vientiane,Asia,South-Eastern Asia,7647000,236800.0,Lao,LAK,True
+Senegal,Republic of Senegal,Dakar,Africa,Western Africa,18593258,196722.0,French,XOF,True
+Turkey,Republic of Turkey,Ankara,Asia,Western Asia,85664944,783562.0,Turkish,TRY,True
+Bolivia,Plurinational State of Bolivia,Sucre,Americas,South America,11365333,1098581.0,"Aymara, Guaraní, Quechua, Spanish",BOB,True
+Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Jayawardenepura Kotte,Asia,Southern Asia,21763170,65610.0,"Sinhala, Tamil",LKR,True
+Norfolk Island,Territory of Norfolk Island,Kingston,Oceania,Australia and New Zealand,2188,36.0,"English, Norfuk",AUD,False
+China,People's Republic of China,Beijing,Asia,Eastern Asia,1408280000,9706961.0,Chinese,CNY,True
+Caribbean Netherlands,"Bonaire, Sint Eustatius and Saba",Kralendijk,Americas,Caribbean,31980,328.0,"English, Dutch, Papiamento",USD,False
+Guernsey,Bailiwick of Guernsey,St. Peter Port,Europe,Northern Europe,64781,78.0,"English, French, Guernésiais","GBP, GGP",False
+Sudan,Republic of the Sudan,Khartoum,Africa,Northern Africa,51662000,1886068.0,"Arabic, English",SDG,True
+Mayotte,Department of Mayotte,Mamoudzou,Africa,Eastern Africa,320901,374.0,French,EUR,False
+Saint Barthélemy,Collectivity of Saint Barthélemy,Gustavia,Americas,Caribbean,10562,21.0,French,EUR,False
+Vatican City,Vatican City State,Vatican City,Europe,Southern Europe,882,0.49,"Italian, Latin",EUR,True
+Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town,Americas,Caribbean,50828,948.0,English,USD,False
+Curaçao,Country of Curaçao,Willemstad,Americas,Caribbean,156115,444.0,"English, Dutch, Papiamento",ANG,False
+Botswana,Republic of Botswana,Gaborone,Africa,Southern Africa,2359609,582000.0,"English, Tswana",BWP,True
+Benin,Republic of Benin,Porto-Novo,Africa,Western Africa,13224860,112622.0,French,XOF,True
+Lithuania,Republic of Lithuania,Vilnius,Europe,Northern Europe,2894886,65300.0,Lithuanian,EUR,True
+Montserrat,Montserrat,Plymouth,Americas,Caribbean,4386,102.0,English,XCD,False
+British Virgin Islands,Virgin Islands,Road Town,Americas,Caribbean,39471,151.0,English,USD,False
+Burundi,Republic of Burundi,Gitega,Africa,Eastern Africa,12332788,27834.0,"French, Kirundi",BIF,True
+United States Minor Outlying Islands,United States Minor Outlying Islands,Washington DC,Americas,North America,0,34.2,English,USD,False
+Ireland,Republic of Ireland,Dublin,Europe,Northern Europe,5458600,70273.0,"English, Irish",EUR,True
+Solomon Islands,Solomon Islands,Honiara,Oceania,Melanesia,750325,28896.0,English,SBD,True
+Bermuda,Bermuda,Hamilton,Americas,North America,64055,54.0,English,BMD,False
+Finland,Republic of Finland,Helsinki,Europe,Northern Europe,5650325,338455.0,"Finnish, Swedish",EUR,True
+Peru,Republic of Peru,Lima,Americas,South America,34350244,1285216.0,"Aymara, Quechua, Spanish",PEN,True
+Bangladesh,People's Republic of Bangladesh,Dhaka,Asia,Southern Asia,169828911,147570.0,Bengali,BDT,True
+Denmark,Kingdom of Denmark,Copenhagen,Europe,Northern Europe,6011488,43094.0,Danish,DKK,True
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown,Americas,Caribbean,110872,389.0,English,XCD,True
+Dominican Republic,Dominican Republic,Santo Domingo,Americas,Caribbean,10771504,48671.0,Spanish,DOP,True
+Moldova,Republic of Moldova,Chișinău,Europe,Eastern Europe,2749076,33847.0,Romanian,MDL,True
+Bulgaria,Republic of Bulgaria,Sofia,Europe,Southeast Europe,6437360,110879.0,Bulgarian,BGN,True
+Costa Rica,Republic of Costa Rica,San José,Americas,Central America,5309625,51100.0,Spanish,CRC,True
+Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,3022401,825615.0,"Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana","NAD, ZAR",True
+Svalbard and Jan Mayen,Svalbard og Jan Mayen,Longyearbyen,Europe,Northern Europe,2530,61399.0,Norwegian,NOK,False
+Luxembourg,Grand Duchy of Luxembourg,Luxembourg,Europe,Western Europe,681973,2586.0,"German, French, Luxembourgish",EUR,True
+Russia,Russian Federation,Moscow,Europe,Eastern Europe,146028325,17098246.0,Russian,RUB,True
+United Arab Emirates,United Arab Emirates,Abu Dhabi,Asia,Western Asia,11294243,83600.0,Arabic,AED,True
+Sint Maarten,Sint Maarten,Philipsburg,Americas,Caribbean,41349,34.0,"English, French, Dutch",ANG,False

@@ -1,0 +1,151 @@
+feedback_id,customer_id,product,rating,comment,date,helpful_count
+1,CUST0001,Monitor,3,Great product!,2025-11-09,34
+2,CUST0098,Mouse,1,Product arrived damaged,2025-02-22,40
+3,CUST0086,Keyboard,4,Awesome service!,2025-12-04,2
+4,CUST0048,Keyboard,5,Great product!,2025-07-14,35
+5,CUST0029,Keyboard,4,Great product!,2025-01-17,29
+6,CUST0056,Keyboard,5,"Not bad, could be better",2025-09-22,5
+7,CUST0014,Webcam,3,Terrible experience,2025-07-11,24
+8,CUST0067,Laptop,4,Awesome service!,2025-08-01,16
+9,CUST0076,Keyboard,3,Terrible experience,2025-02-06,43
+10,CUST0053,Headphones,2,,2025-07-01,13
+11,CUST0062,Keyboard,5,Product arrived damaged,2025-03-02,49
+12,CUST0064,Laptop,4,Awesome service!,2025-01-08,44
+13,CUST0027,Headphones,3,Great product!,2025-11-15,34
+14,CUST0035,Laptop,4,"Not bad, could be better",2025-08-04,35
+15,CUST0061,Laptop,4,Awesome service!,2025-04-02,6
+16,CUST0048,Mouse,4,Product arrived damaged,2025-03-04,32
+17,CUST0047,Mouse,5,"Not bad, could be better",2025-10-10,7
+18,CUST0032,Laptop,3,Awesome service!,2024-12-14,28
+19,CUST0016,Mouse,5,"Not bad, could be better",2025-01-20,48
+20,CUST0046,Keyboard,3,,2025-11-22,28
+21,CUST0037,Mouse,3,Awesome service!,2025-10-03,11
+22,CUST0096,Keyboard,3,Awesome service!,2025-07-15,14
+23,CUST0078,Monitor,1,Awesome service!,2025-10-30,17
+24,CUST0069,Laptop,1,Awesome service!,2025-10-12,42
+25,CUST0008,Headphones,5,Awesome service!,2025-03-25,32
+26,CUST0017,Keyboard,1,Awesome service!,2025-04-16,6
+27,CUST0024,Headphones,2,Very satisfied with purchase,2025-11-27,47
+28,CUST0086,Keyboard,4,"Not bad, could be better",2025-01-03,12
+29,CUST0031,Mouse,1,Very satisfied with purchase,2025-11-17,32
+30,CUST0091,Keyboard,1,Very satisfied with purchase,2025-11-20,1
+31,CUST0018,Webcam,2,Product arrived damaged,2025-09-19,45
+32,CUST0069,Headphones,5,Terrible experience,2025-01-28,10
+33,CUST0032,Mouse,3,,2025-11-11,48
+34,CUST0042,Monitor,2,Awesome service!,2025-07-08,9
+35,CUST0050,Monitor,4,Product arrived damaged,2025-05-05,29
+36,CUST0050,Mouse,2,Great product!,2025-06-04,10
+37,CUST0063,Keyboard,5,Awesome service!,2025-01-29,11
+38,CUST0011,Headphones,5,,2025-04-24,43
+39,CUST0044,Monitor,2,Very satisfied with purchase,2025-05-20,11
+40,CUST0035,Monitor,2,,2025-11-24,21
+41,CUST0048,Monitor,3,,2025-11-02,9
+42,CUST0046,Headphones,1,,2025-07-23,25
+43,CUST0022,Mouse,3,Product arrived damaged,2025-10-04,25
+44,CUST0078,Mouse,2,"Not bad, could be better",2025-05-09,25
+45,CUST0008,Laptop,2,,2025-08-26,4
+46,CUST0054,Monitor,1,,2025-01-13,17
+47,CUST0002,Webcam,2,Terrible experience,2025-05-29,35
+48,CUST0002,Keyboard,1,Very satisfied with purchase,2025-05-06,8
+49,CUST0099,Webcam,2,Very satisfied with purchase,2025-07-26,16
+50,CUST0074,Mouse,1,Very satisfied with purchase,2025-06-06,43
+51,CUST0013,Webcam,4,Awesome service!,2025-08-29,1
+52,CUST0059,Mouse,1,Very satisfied with purchase,2025-08-12,42
+53,CUST0002,Keyboard,5,,2024-12-18,34
+54,CUST0085,Headphones,5,Awesome service!,2025-08-17,19
+55,CUST0097,Webcam,2,Terrible experience,2025-03-25,9
+56,CUST0008,Keyboard,3,Terrible experience,2025-03-17,27
+57,CUST0031,Mouse,1,Great product!,2025-07-08,14
+58,CUST0090,Keyboard,2,"Not bad, could be better",2025-12-03,41
+59,CUST0040,Monitor,3,,2025-04-13,36
+60,CUST0002,Mouse,3,Terrible experience,2025-03-28,12
+61,CUST0060,Webcam,1,,2025-06-03,17
+62,CUST0002,Headphones,5,Product arrived damaged,2025-09-06,46
+63,CUST0047,Webcam,1,,2025-06-14,29
+64,CUST0084,Mouse,2,"Not bad, could be better",2025-10-11,11
+65,CUST0093,Keyboard,2,Great product!,2025-08-21,12
+66,CUST0024,Mouse,2,Very satisfied with purchase,2025-10-20,2
+67,CUST0024,Mouse,4,,2025-06-20,25
+68,CUST0069,Mouse,2,Very satisfied with purchase,2025-01-16,18
+69,CUST0055,Mouse,5,,2025-05-16,31
+70,CUST0082,Monitor,5,"Not bad, could be better",2025-09-25,39
+71,CUST0068,Keyboard,4,,2025-02-19,4
+72,CUST0052,Monitor,1,,2024-12-10,42
+73,CUST0028,Laptop,4,,2025-05-13,45
+74,CUST0073,Keyboard,5,Terrible experience,2025-02-07,12
+75,CUST0097,Keyboard,2,,2025-11-30,1
+76,CUST0056,Laptop,3,,2025-08-16,20
+77,CUST0044,Headphones,4,Great product!,2025-09-24,5
+78,CUST0039,Headphones,4,Product arrived damaged,2025-09-19,20
+79,CUST0096,Webcam,4,"Not bad, could be better",2025-09-05,49
+80,CUST0078,Headphones,2,Awesome service!,2025-05-25,26
+81,CUST0052,Headphones,4,,2025-02-01,16
+82,CUST0060,Webcam,3,Terrible experience,2025-05-27,28
+83,CUST0009,Mouse,2,,2025-06-23,7
+84,CUST0027,Laptop,4,,2025-09-10,48
+85,CUST0041,Laptop,4,Very satisfied with purchase,2025-11-27,34
+86,CUST0026,Monitor,3,Product arrived damaged,2025-11-06,15
+87,CUST0087,Webcam,1,Product arrived damaged,2025-01-09,44
+88,CUST0069,Monitor,5,,2025-10-31,46
+89,CUST0061,Webcam,1,Very satisfied with purchase,2025-10-08,43
+90,CUST0011,Laptop,3,,2025-07-22,41
+91,CUST0039,Mouse,1,Great product!,2025-10-14,7
+92,CUST0017,Mouse,4,,2025-09-06,45
+93,CUST0079,Keyboard,3,Product arrived damaged,2025-02-28,23
+94,CUST0096,Headphones,5,,2025-10-29,43
+95,CUST0014,Webcam,1,,2025-04-22,39
+96,CUST0056,Webcam,1,Very satisfied with purchase,2025-07-13,24
+97,CUST0091,Monitor,1,Awesome service!,2025-06-02,0
+98,CUST0088,Webcam,5,"Not bad, could be better",2025-01-22,27
+99,CUST0023,Monitor,4,,2025-02-10,27
+100,CUST0044,Mouse,2,"Not bad, could be better",2025-10-13,15
+101,CUST0100,Keyboard,2,Terrible experience,2025-08-20,35
+102,CUST0039,Keyboard,2,Great product!,2025-10-14,49
+103,CUST0031,Webcam,1,Very satisfied with purchase,2025-03-02,40
+104,CUST0044,Webcam,5,"Not bad, could be better",2025-08-20,7
+105,CUST0008,Headphones,5,"Not bad, could be better",2025-05-28,38
+106,CUST0092,Webcam,4,Awesome service!,2025-03-20,27
+107,CUST0055,Webcam,5,Great product!,2025-04-18,35
+108,CUST0030,Webcam,5,Product arrived damaged,2025-09-26,0
+109,CUST0034,Monitor,3,,2025-04-09,37
+110,CUST0048,Mouse,3,Product arrived damaged,2025-12-07,30
+111,CUST0060,Laptop,2,Great product!,2025-11-17,20
+112,CUST0085,Headphones,5,"Not bad, could be better",2025-06-11,28
+113,CUST0064,Laptop,4,Product arrived damaged,2025-09-02,15
+114,CUST0026,Laptop,5,"Not bad, could be better",2025-11-27,50
+115,CUST0045,Keyboard,3,Product arrived damaged,2025-03-06,50
+116,CUST0013,Monitor,2,Product arrived damaged,2025-10-03,18
+117,CUST0024,Laptop,4,Very satisfied with purchase,2025-08-09,16
+118,CUST0031,Mouse,4,Very satisfied with purchase,2024-12-17,36
+119,CUST0012,Keyboard,3,Very satisfied with purchase,2025-10-27,27
+120,CUST0093,Laptop,3,Very satisfied with purchase,2025-04-24,8
+121,CUST0025,Headphones,2,Terrible experience,2025-08-21,24
+122,CUST0086,Headphones,3,Great product!,2025-01-10,22
+123,CUST0098,Monitor,2,,2025-01-09,40
+124,CUST0062,Webcam,4,Very satisfied with purchase,2025-05-27,13
+125,CUST0082,Mouse,5,Very satisfied with purchase,2025-10-16,48
+126,CUST0003,Headphones,3,Awesome service!,2024-12-15,37
+127,CUST0041,Mouse,4,,2025-05-12,32
+128,CUST0072,Webcam,3,Awesome service!,2025-01-24,32
+129,CUST0030,Headphones,4,,2025-09-03,43
+130,CUST0009,Headphones,1,Product arrived damaged,2025-06-10,28
+131,CUST0058,Monitor,4,Product arrived damaged,2025-11-11,50
+132,CUST0037,Monitor,5,Terrible experience,2025-09-10,17
+133,CUST0006,Keyboard,3,Terrible experience,2025-03-13,45
+134,CUST0016,Laptop,4,,2025-08-05,13
+135,CUST0015,Monitor,2,"Not bad, could be better",2025-11-30,41
+136,CUST0087,Laptop,3,Product arrived damaged,2025-10-24,39
+137,CUST0052,Keyboard,1,Awesome service!,2025-09-04,9
+138,CUST0030,Laptop,4,Great product!,2025-09-02,41
+139,CUST0098,Laptop,2,,2025-11-26,34
+140,CUST0021,Webcam,1,Awesome service!,2025-08-17,6
+141,CUST0067,Headphones,3,Product arrived damaged,2025-10-19,0
+142,CUST0036,Mouse,5,,2025-03-02,37
+143,CUST0027,Monitor,5,,2025-07-04,31
+144,CUST0003,Monitor,3,Great product!,2025-02-07,34
+145,CUST0026,Webcam,5,"Not bad, could be better",2025-11-24,23
+146,CUST0072,Mouse,3,Very satisfied with purchase,2025-01-15,40
+147,CUST0008,Webcam,4,Very satisfied with purchase,2025-07-16,20
+148,CUST0089,Webcam,4,Great product!,2025-07-09,12
+149,CUST0009,Laptop,5,"Not bad, could be better",2025-08-01,33
+150,CUST0096,Webcam,5,Terrible experience,2025-05-18,36

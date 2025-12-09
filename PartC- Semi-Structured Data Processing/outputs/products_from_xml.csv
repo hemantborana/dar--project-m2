@@ -1,0 +1,4 @@
+id,name,category,price,stock,supplier,in_stock
+P001,Laptop,Electronics,999.99,45,TechSupply Inc,True
+P002,Mouse,Accessories,25.99,150,PeripheralsPro,True
+P003,Keyboard,Accessories,79.99,0,PeripheralsPro,False

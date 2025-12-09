@@ -1,0 +1,12 @@
+# MongoDB vs Key-Value Stores (Redis)
+MongoDB stores JSON-like documents.
+Redis stores data as key → value pairs only.
+MongoDB supports queries, indexing, aggregation.
+Redis is ultra-fast but limited query capability.
+
+# MongoDB vs Column-Family (Cassandra)
+MongoDB is document based.
+Cassandra stores rows inside column-families.
+MongoDB supports dynamic fields.
+Cassandra best for huge write throughput.
+Both scale horizontally, but Cassandra has no JOIN-like operations.

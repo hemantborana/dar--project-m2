@@ -1,0 +1,4 @@
+dataset,records,columns,memory_kb
+users,10,15,8.96
+posts,100,7,39.01
+countries,50,10,21.62

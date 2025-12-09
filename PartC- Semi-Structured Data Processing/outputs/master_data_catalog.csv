@@ -1,0 +1,10 @@
+dataset_name,source_type,records,columns,memory_kb,null_values,duplicates
+json_users,JSON,10,15,8.01,0,0
+json_posts,JSON,100,7,39.01,0,0
+json_countries,JSON,50,10,21.62,0,0
+csv_sales,CSV,500,9,180.31,122,0
+csv_employees,CSV,200,7,68.73,51,0
+csv_feedback,CSV,150,7,38.68,0,0
+xml_books,XML,5,8,2.34,0,0
+xml_employees,XML,3,8,1.4,0,0
+xml_products,XML,3,7,0.86,0,0

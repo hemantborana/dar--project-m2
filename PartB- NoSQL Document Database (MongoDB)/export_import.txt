@@ -1,0 +1,14 @@
+# Export full collection to JSON
+mongoexport --uri "mongodb+srv://hemantpb123_db_user:nFRetGlTYGg2Zajd@project2.nf6npg4.mongodb.net/?retryWrites=true&w=majority&appName=Project2" --collection Students --out Students.json
+
+# Export to CSV
+mongoexport --uri "mongodb+srv://hemantpb123_db_user:nFRetGlTYGg2Zajd@project2.nf6npg4.mongodb.net/?retryWrites=true&w=majority&appName=Project2" --collection Students --type=csv --fields name,course,marks --out Students.csv
+
+# Import JSON file
+mongoimport --uri "mongodb+srv://hemantpb123_db_user:nFRetGlTYGg2Zajd@project2.nf6npg4.mongodb.net/?retryWrites=true&w=majority&appName=Project2" --collection Students --file Students.json
+
+# Backup entire database
+mongodump --uri "mongodb+srv://hemantpb123_db_user:nFRetGlTYGg2Zajd@project2.nf6npg4.mongodb.net/?retryWrites=true&w=majority&appName=Project2" --out backup/
+
+# Restore backup
+mongorestore --uri "mongodb+srv://hemantpb123_db_user:nFRetGlTYGg2Zajd@project2.nf6npg4.mongodb.net/?retryWrites=true&w=majority&appName=Project2" backup/

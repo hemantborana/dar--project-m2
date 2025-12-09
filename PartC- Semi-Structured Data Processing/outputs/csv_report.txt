@@ -1,0 +1,18 @@
+CSV and Excel Processing Report
+Date: 2025-12-08 08:03
+
+Files processed: 8
+Total records: 1548
+
+Problems found:
+- sales has nulls
+
+Datasets created:
+- sales
+- employees
+- feedback
+- international
+- Inventory
+- Monthly_Sales
+- Regional_Performance
+- merged_sales

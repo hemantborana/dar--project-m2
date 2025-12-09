@@ -1,0 +1,4 @@
+id,department,name,position,salary,email,phone,skills
+E001,Engineering,John Doe,Senior Engineer,95000,john.doe@company.com,555-0101,"Python, Java, SQL"
+E002,Engineering,Jane Smith,Tech Lead,110000,jane.smith@company.com,555-0102,"JavaScript, React, Node.js"
+E003,Sales,Bob Johnson,Sales Manager,85000,bob.j@company.com,555-0103,"Negotiation, CRM"

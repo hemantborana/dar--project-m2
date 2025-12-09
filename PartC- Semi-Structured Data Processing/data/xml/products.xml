@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inv:inventory xmlns:inv="http://example.com/inventory" xmlns:prod="http://example.com/products">
+    <prod:product inv:id="P001" inv:inStock="true">
+        <prod:name>Laptop</prod:name>
+        <prod:category>Electronics</prod:category>
+        <prod:price>999.99</prod:price>
+        <prod:stock>45</prod:stock>
+        <prod:supplier>TechSupply Inc</prod:supplier>
+    </prod:product>
+    <prod:product inv:id="P002" inv:inStock="true">
+        <prod:name>Mouse</prod:name>
+        <prod:category>Accessories</prod:category>
+        <prod:price>25.99</prod:price>
+        <prod:stock>150</prod:stock>
+        <prod:supplier>PeripheralsPro</prod:supplier>
+    </prod:product>
+    <prod:product inv:id="P003" inv:inStock="false">
+        <prod:name>Keyboard</prod:name>
+        <prod:category>Accessories</prod:category>
+        <prod:price>79.99</prod:price>
+        <prod:stock>0</prod:stock>
+        <prod:supplier>PeripheralsPro</prod:supplier>
+    </prod:product>
+</inv:inventory>

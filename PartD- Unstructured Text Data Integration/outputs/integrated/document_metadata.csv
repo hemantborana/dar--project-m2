@@ -1,0 +1,19 @@
+document_id,source,collection_date,processing_date,language,format,quality_flag,category,accessibility,retention_period
+DOC_0001,Wikipedia,2025-12-08 09:06:32,2025-12-08 09:15:02,English,Plain Text,Clean,encyclopedia,Public,1 year
+DOC_0002,Wikipedia,2025-12-08 09:06:37,2025-12-08 09:15:02,English,Plain Text,Clean,encyclopedia,Public,1 year
+DOC_0003,Wikipedia,2025-12-08 09:06:38,2025-12-08 09:15:02,English,Plain Text,Clean,encyclopedia,Public,1 year
+DOC_0004,BBC News RSS,2025-12-08 09:06:39,2025-12-08 09:15:02,English,Plain Text,Clean,news,Public,1 year
+DOC_0005,BBC News RSS,2025-12-08 09:06:39,2025-12-08 09:15:02,English,Plain Text,Clean,news,Public,1 year
+DOC_0006,BBC News RSS,2025-12-08 09:06:39,2025-12-08 09:15:02,English,Plain Text,Clean,news,Public,1 year
+DOC_0007,BBC News RSS,2025-12-08 09:06:39,2025-12-08 09:15:02,English,Plain Text,Clean,news,Public,1 year
+DOC_0008,BBC News RSS,2025-12-08 09:06:39,2025-12-08 09:15:02,English,Plain Text,Clean,news,Public,1 year
+DOC_0009,GitHub API,2025-12-08 09:06:40,2025-12-08 09:15:02,English,Plain Text,Review,quotes,Public,1 year
+DOC_0010,GitHub API,2025-12-08 09:06:40,2025-12-08 09:15:02,English,Plain Text,Clean,quotes,Public,1 year
+DOC_0011,GitHub API,2025-12-08 09:06:40,2025-12-08 09:15:02,English,Plain Text,Review,quotes,Public,1 year
+DOC_0012,GitHub API,2025-12-08 09:06:40,2025-12-08 09:15:02,English,Plain Text,Review,quotes,Public,1 year
+DOC_0013,GitHub API,2025-12-08 09:06:40,2025-12-08 09:15:02,English,Plain Text,Review,quotes,Public,1 year
+DOC_0014,GitHub API,2025-12-08 09:06:40,2025-12-08 09:15:02,English,Plain Text,Clean,quotes,Public,1 year
+DOC_0015,GitHub API,2025-12-08 09:06:40,2025-12-08 09:15:02,English,Plain Text,Clean,quotes,Public,1 year
+DOC_0016,GitHub API,2025-12-08 09:06:40,2025-12-08 09:15:02,English,Plain Text,Clean,quotes,Public,1 year
+DOC_0017,GitHub API,2025-12-08 09:06:40,2025-12-08 09:15:02,English,Plain Text,Clean,quotes,Public,1 year
+DOC_0018,GitHub API,2025-12-08 09:06:40,2025-12-08 09:15:02,English,Plain Text,Clean,quotes,Public,1 year

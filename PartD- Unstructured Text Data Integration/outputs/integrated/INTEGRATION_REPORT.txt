@@ -1,0 +1,128 @@
+
+======================================================================
+UNSTRUCTURED DATA INTEGRATION REPORT
+Part D - Task 2
+======================================================================
+
+Generated: 2025-12-08 09:15:02
+
+1. DATA SOURCES
+----------------------------------------------------------------------
+Total Documents Integrated: 18
+
+Source Breakdown:
+  - GitHub API: 10 documents
+  - BBC News RSS: 5 documents
+  - Wikipedia: 3 documents
+
+2. DATA INTEGRATION PROCESS
+----------------------------------------------------------------------
+Step 1: Extracted text from web sources
+  - Wikipedia articles (encyclopedia content)
+  - BBC News RSS feed (current news)
+  - GitHub API (repository descriptions)
+
+Step 2: Text preprocessing
+  - Removed citations and special characters
+  - Normalized whitespace
+  - Converted to lowercase
+  - Tokenization
+
+Step 3: Metadata creation
+  - Document IDs assigned
+  - Source tracking
+  - Timestamp recording
+  - Quality flags
+
+Step 4: Content structuring
+  - Unified schema creation
+  - Keyword extraction
+  - Length categorization
+  - Topic classification
+
+3. DATA QUALITY METRICS
+----------------------------------------------------------------------
+Total Documents: 18
+Total Words: 1,007
+Average Words/Document: 55.94
+Null Values: 0
+Duplicate Titles: 0
+Empty Content: 0
+Quality Score: 100.0%
+
+4. CONTENT ANALYSIS
+----------------------------------------------------------------------
+Length Distribution:
+  Short: 13 documents
+  Long: 3 documents
+  Medium: 2 documents
+
+5. DATA LINEAGE
+----------------------------------------------------------------------
+Complete data lineage has been documented showing:
+- Original source URLs
+- Extraction methods
+- Transformation steps
+- Storage locations
+
+See: outputs/integrated/data_lineage.csv
+
+6. OUTPUT FILES
+----------------------------------------------------------------------
+- integrated_text_data.csv (main dataset)
+- integrated_text_data.xlsx (Excel format)
+- document_metadata.csv (metadata)
+- quality_report.csv (quality metrics)
+- source_analysis.csv (source breakdown)
+- data_lineage.csv (lineage tracking)
+
+7. UNIFIED DATA SCHEMA
+----------------------------------------------------------------------
+Columns in integrated dataset:
+  - document_id
+  - source_type
+  - topic
+  - title
+  - content
+  - cleaned_content
+  - word_count
+  - char_count
+  - sentence_count
+  - avg_word_length
+  - scraped_date
+  - source_url
+  - text_category
+  - keywords
+  - length_category
+  - source
+  - collection_date
+  - processing_date
+  - language
+  - format
+  - quality_flag
+  - category
+  - accessibility
+  - retention_period
+
+8. CHALLENGES ADDRESSED
+----------------------------------------------------------------------
+- Different web scraping methods for different sources
+- Handling HTML/XML parsing
+- Text preprocessing and cleaning
+- Creating consistent structure from unstructured data
+- Metadata generation for tracking
+- Quality assessment implementation
+
+9. RECOMMENDATIONS
+----------------------------------------------------------------------
+- Implement sentiment analysis for text content
+- Add named entity recognition (NER)
+- Create text similarity measures
+- Build search/indexing capability
+- Add automated summarization
+- Implement topic modeling (LDA)
+- Schedule periodic data refresh
+
+======================================================================
+END OF INTEGRATION REPORT
+======================================================================

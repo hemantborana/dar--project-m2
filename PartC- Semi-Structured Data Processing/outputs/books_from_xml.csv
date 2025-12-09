@@ -1,0 +1,6 @@
+id,category,author,title,price,currency,publish_date,description
+bk101,Computer,"Gambardella, Matthew",XML Developer's Guide,44.95,USD,2000-10-01,An in-depth look at creating applications with XML.
+bk102,Fantasy,"Ralls, Kim",Midnight Rain,5.95,USD,2000-12-16,A former architect battles corporate zombies.
+bk103,Fantasy,"Corets, Eva",Maeve Ascendant,5.95,USD,2000-11-17,After the collapse of a nanotechnology society.
+bk104,Romance,"Corets, Eva",Oberon's Legacy,5.95,USD,2001-03-10,"In post-apocalypse England, a young man searches."
+bk105,Computer,"O'Brien, Tim",Microsoft .NET,49.95,USD,2000-12-09,Microsoft's .NET initiative is explored in detail.

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <book id="bk101" category="Computer">
+        <author>Gambardella, Matthew</author>
+        <title>XML Developer's Guide</title>
+        <price currency="USD">44.95</price>
+        <publish_date>2000-10-01</publish_date>
+        <description>An in-depth look at creating applications with XML.</description>
+    </book>
+    <book id="bk102" category="Fantasy">
+        <author>Ralls, Kim</author>
+        <title>Midnight Rain</title>
+        <price currency="USD">5.95</price>
+        <publish_date>2000-12-16</publish_date>
+        <description>A former architect battles corporate zombies.</description>
+    </book>
+    <book id="bk103" category="Fantasy">
+        <author>Corets, Eva</author>
+        <title>Maeve Ascendant</title>
+        <price currency="USD">5.95</price>
+        <publish_date>2000-11-17</publish_date>
+        <description>After the collapse of a nanotechnology society.</description>
+    </book>
+    <book id="bk104" category="Romance">
+        <author>Corets, Eva</author>
+        <title>Oberon's Legacy</title>
+        <price currency="USD">5.95</price>
+        <publish_date>2001-03-10</publish_date>
+        <description>In post-apocalypse England, a young man searches.</description>
+    </book>
+    <book id="bk105" category="Computer">
+        <author>O'Brien, Tim</author>
+        <title>Microsoft .NET</title>
+        <price currency="USD">49.95</price>
+        <publish_date>2000-12-09</publish_date>
+        <description>Microsoft's .NET initiative is explored in detail.</description>
+    </book>
+</catalog>

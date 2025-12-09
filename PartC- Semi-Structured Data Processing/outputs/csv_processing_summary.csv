@@ -1,0 +1,9 @@
+dataset,rows,cols,nulls
+sales,500,9,122
+employees,200,7,51
+feedback,150,7,0
+international,120,5,0
+Inventory,50,6,0
+Monthly_Sales,12,5,0
+Regional_Performance,16,5,0
+merged_sales,500,11,122

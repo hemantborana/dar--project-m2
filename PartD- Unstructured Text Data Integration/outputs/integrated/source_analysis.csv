@@ -1,0 +1,6 @@
+,word_count,word_count,word_count,char_count,sentence_count
+,count,sum,mean,sum,mean
+source_type,,,,,
+BBC News RSS,5,101,20.2,550,2.0
+GitHub API,10,107,10.7,755,2.2
+Wikipedia,3,799,266.33,5702,16.0
